@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-127-143-187.ap-south-1.compute.amazonaws.com:8081/repository/test-test/</url>
+	      <url>http://13.127.143.187:8081/repository/test-test/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
