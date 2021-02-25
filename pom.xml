@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.22.216.107:8081/repository/proxypratap/</url>
+	      <url>http://3.22.216.107:8081/repository/pratap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
